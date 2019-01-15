@@ -1,0 +1,5 @@
+Position,Min,Max
+Clamp,130,180
+Base,0,180
+Right,0,180
+Left,60,180
